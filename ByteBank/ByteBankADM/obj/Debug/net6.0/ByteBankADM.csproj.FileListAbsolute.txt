@@ -1,0 +1,15 @@
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\bin\Debug\net6.0\ByteBankADM.exe
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\bin\Debug\net6.0\ByteBankADM.deps.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\bin\Debug\net6.0\ByteBankADM.runtimeconfig.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\bin\Debug\net6.0\ByteBankADM.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\bin\Debug\net6.0\ByteBankADM.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ByteBankADM.csproj.AssemblyReference.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ByteBankADM.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ByteBankADM.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ByteBankADM.AssemblyInfo.cs
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ByteBankADM.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ByteBankADM.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\refint\ByteBankADM.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ByteBankADM.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ByteBankADM.genruntimeconfig.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\ByteBank\ByteBankADM\obj\Debug\net6.0\ref\ByteBankADM.dll

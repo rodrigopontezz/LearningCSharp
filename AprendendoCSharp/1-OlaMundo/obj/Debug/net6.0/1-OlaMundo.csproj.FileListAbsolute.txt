@@ -1,0 +1,15 @@
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.exe
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.deps.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.runtimeconfig.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\bin\Debug\net6.0\1-OlaMundo.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.csproj.AssemblyReference.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.AssemblyInfo.cs
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\refint\1-OlaMundo.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\1-OlaMundo.genruntimeconfig.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\1-OlaMundo\obj\Debug\net6.0\ref\1-OlaMundo.dll

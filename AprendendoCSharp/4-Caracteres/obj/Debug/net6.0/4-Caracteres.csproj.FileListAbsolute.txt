@@ -1,0 +1,15 @@
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.csproj.AssemblyReference.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.AssemblyInfo.cs
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.exe
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.deps.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.runtimeconfig.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\bin\Debug\net6.0\4-Caracteres.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\refint\4-Caracteres.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\4-Caracteres.genruntimeconfig.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\4-Caracteres\obj\Debug\net6.0\ref\4-Caracteres.dll

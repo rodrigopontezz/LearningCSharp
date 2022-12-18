@@ -1,0 +1,15 @@
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\bin\Debug\net6.0\3-Casting.exe
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\bin\Debug\net6.0\3-Casting.deps.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\bin\Debug\net6.0\3-Casting.runtimeconfig.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\bin\Debug\net6.0\3-Casting.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\bin\Debug\net6.0\3-Casting.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\3-Casting.csproj.AssemblyReference.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\3-Casting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\3-Casting.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\3-Casting.AssemblyInfo.cs
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\3-Casting.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\3-Casting.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\refint\3-Casting.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\3-Casting.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\3-Casting.genruntimeconfig.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\3-Casting\obj\Debug\net6.0\ref\3-Casting.dll

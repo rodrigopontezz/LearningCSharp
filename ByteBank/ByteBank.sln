@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByteBank", "ByteBank\ByteBank.csproj", "{7A6807FC-1212-4466-80D8-7EDBD1B97B3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{30A18C9D-43BE-4E84-9A9A-7BA6DDC412C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{EC01057D-5FBE-47F3-BF76-532298840A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBankADM", "ByteBankADM\ByteBankADM.csproj", "{2FD36280-5560-4F94-BCBD-43F455F40DC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6807FC-1212-4466-80D8-7EDBD1B97B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6807FC-1212-4466-80D8-7EDBD1B97B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6807FC-1212-4466-80D8-7EDBD1B97B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6807FC-1212-4466-80D8-7EDBD1B97B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD36280-5560-4F94-BCBD-43F455F40DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD36280-5560-4F94-BCBD-43F455F40DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD36280-5560-4F94-BCBD-43F455F40DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD36280-5560-4F94-BCBD-43F455F40DC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7A6807FC-1212-4466-80D8-7EDBD1B97B3F} = {30A18C9D-43BE-4E84-9A9A-7BA6DDC412C8}
+		{2FD36280-5560-4F94-BCBD-43F455F40DC3} = {30A18C9D-43BE-4E84-9A9A-7BA6DDC412C8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BD084EB-0356-4DD8-9D4D-225D2DCA4554}
+	EndGlobalSection
+EndGlobal

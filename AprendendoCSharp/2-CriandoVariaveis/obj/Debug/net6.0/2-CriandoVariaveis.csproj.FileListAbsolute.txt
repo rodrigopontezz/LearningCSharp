@@ -1,0 +1,15 @@
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.exe
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.deps.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.runtimeconfig.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\bin\Debug\net6.0\2-CriandoVariaveis.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.AssemblyReference.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.AssemblyInfo.cs
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\refint\2-CriandoVariaveis.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\2-CriandoVariaveis.genruntimeconfig.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\2-CriandoVariaveis\obj\Debug\net6.0\ref\2-CriandoVariaveis.dll

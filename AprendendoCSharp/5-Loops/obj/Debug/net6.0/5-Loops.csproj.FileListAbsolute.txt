@@ -1,0 +1,15 @@
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\bin\Debug\net6.0\5-Loops.exe
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\bin\Debug\net6.0\5-Loops.deps.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\bin\Debug\net6.0\5-Loops.runtimeconfig.json
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\bin\Debug\net6.0\5-Loops.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\bin\Debug\net6.0\5-Loops.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\5-Loops.csproj.AssemblyReference.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\5-Loops.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\5-Loops.AssemblyInfoInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\5-Loops.AssemblyInfo.cs
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\5-Loops.csproj.CoreCompileInputs.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\5-Loops.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\refint\5-Loops.dll
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\5-Loops.pdb
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\5-Loops.genruntimeconfig.cache
+E:\Desenvolvimento\Estudos\CSharp\Alura\AprendendoCSharp\5-Loops\obj\Debug\net6.0\ref\5-Loops.dll
