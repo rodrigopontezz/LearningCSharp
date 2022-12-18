@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\ByteBank\\ByteBankADM\\ByteBankADM.csproj",
+      "projectUniqueName": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBankADM\\ByteBankADM.csproj",
       "projectName": "ByteBankADM",
-      "projectPath": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\ByteBank\\ByteBankADM\\ByteBankADM.csproj",
+      "projectPath": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBankADM\\ByteBankADM.csproj",
       "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\ByteBank\\ByteBankADM\\obj\\",
+      "outputPath": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBankADM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Aplicativos\\Dev\\Microsoft Visual Studio\\Shared\\NuGetPackages"
