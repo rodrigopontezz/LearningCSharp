@@ -2,6 +2,8 @@
 
 namespace ByteBank.CollectionSamples
 {
+
+    #nullable disable
     public class CheckingAccountList
     {
         private int _currentIndex;
