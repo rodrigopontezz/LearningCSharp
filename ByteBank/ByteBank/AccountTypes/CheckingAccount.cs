@@ -6,6 +6,7 @@ namespace ByteBank.AccountTypes
     public class CheckingAccount : IComparable<CheckingAccount>
     {
         // Private field name conventions
+        private string _id;
         private double _balance;
 
         // Auto-implemented properties examples (nested)
@@ -15,8 +16,8 @@ namespace ByteBank.AccountTypes
         public static long TotalAccountsCreated { get; private set; }
 
         // Explicit property declaration example
-        private string _accountNumber;
-        public string AccountNumber
+        private string? _accountNumber;
+        public string? AccountNumber
         {
             get { return _accountNumber; }
             set { if (value is not null)  _accountNumber = value; }
@@ -28,14 +29,17 @@ namespace ByteBank.AccountTypes
         public CheckingAccount(int agencyNumber, string accountNumber, double balance, string holderName, string cpf, string job)
         {
             AgencyNumber = agencyNumber;
-            _accountNumber = accountNumber;
+            AccountNumber = accountNumber;
+            _id = Guid.NewGuid().ToString().Substring(0, 8);
             _userHolder = new()
             {
                 Name = holderName,
                 Cpf = cpf,
                 Job = job
             };
+            
             SetBalance(balance);
+            
             TotalAccountsCreated++;
         }
 
