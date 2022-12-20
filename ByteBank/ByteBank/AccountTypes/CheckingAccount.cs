@@ -3,7 +3,7 @@ using ByteBank.Exceptions;
 
 namespace ByteBank.AccountTypes
 {
-    public class CheckingAccount
+    public class CheckingAccount : IComparable<CheckingAccount>
     {
         // Private field name conventions
         private int _agencyNumber;
@@ -107,6 +107,27 @@ namespace ByteBank.AccountTypes
             if (amount < 0)  return;
             
             _balance = amount;
+        }
+
+        /// <summary>
+        /// Necessary to enable the Sort() method in the List<T> interface.
+        /// </summary>
+        /// <param name="other">The CheckingAccount that will be compared to.</param>
+        /// <returns>
+        /// Returns 1 if "other" occurs after this instance in the classification order.
+        /// Returns 0 if "other" occurs in the same position of this instance in the classfication order.
+        /// Returns -1 if "other" occurs before this instance in the classification order.
+        /// </returns>
+        public int CompareTo(CheckingAccount? other)
+        {
+            int result = 1;
+
+            if (other != null)
+            {
+                result = _agencyNumber.CompareTo(other._agencyNumber);
+            } 
+                
+            return result;
         }
     }
 }

@@ -44,7 +44,10 @@ namespace ByteBank
 
             //GenericsPrinter<CheckingAccount>.PrintValue(account);
             #endregion
-
+            #region Sorting Lists with IComparable implemented
+            //ListSample listSample = new ListSample();
+            //listSample.HandleAccount(account);
+            #endregion
         }
     }
 }
