@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pichau\\.nuget\\packages\\": {},
-    "E:\\Aplicativos\\Dev\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Rodrigo\\.nuget\\packages\\": {},
+    "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBank\\ByteBank.csproj",
+      "projectUniqueName": "D:\\rodip\\Documents\\Desenvolvedor\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj",
       "projectName": "ByteBank",
-      "projectPath": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBank\\ByteBank.csproj",
-      "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-      "outputPath": "E:\\Desenvolvimento\\Estudos\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBank\\obj\\",
+      "projectPath": "D:\\rodip\\Documents\\Desenvolvedor\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj",
+      "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
+      "outputPath": "D:\\rodip\\Documents\\Desenvolvedor\\CSharp\\Alura\\LearningCSharp\\ByteBank\\ByteBank\\ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Aplicativos\\Dev\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Pichau\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
