@@ -48,6 +48,17 @@ namespace ByteBank
             //ListSample listSample = new ListSample();
             //listSample.HandleAccount(account);
             #endregion
+            #region Explicit LINQ expression
+            CheckingAccountList accountManager = new();
+            accountManager.AddAccount(account);
+            accountManager.AddAccount(accountReceiver);
+
+            LINQCheckingAccount linqSample = new LINQCheckingAccount();
+            foreach (CheckingAccount acc in linqSample.FindAccountsByAgencyNumber(accountManager,1033))
+            {
+                acc.DisplayAccountInfo();
+            }
+            #endregion
         }
     }
 }
