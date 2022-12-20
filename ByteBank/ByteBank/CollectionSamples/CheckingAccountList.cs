@@ -105,5 +105,17 @@ namespace ByteBank.CollectionSamples
             Console.WriteLine();
         }
 
+
+        public CheckingAccount FindAccountByAccountNumber(string accountNumber)
+        {
+            return Accounts.Where(acc => acc.AccountNumber == accountNumber).FirstOrDefault();
+        }
+
+
+        public CheckingAccount FindAccountByAgencyNumber(int agencyNumber)
+        {
+            return Accounts.Where(acc => acc.AgencyNumber == agencyNumber).FirstOrDefault();
+        }
+
     }
 }
