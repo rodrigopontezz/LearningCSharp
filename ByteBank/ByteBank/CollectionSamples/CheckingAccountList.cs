@@ -1,6 +1,6 @@
 ﻿using ByteBank.AccountTypes;
 
-namespace ByteBank.Help
+namespace ByteBank.CollectionSamples
 {
     public class CheckingAccountList
     {
@@ -37,7 +37,7 @@ namespace ByteBank.Help
         public void RemoveAccount(CheckingAccount account)
         {
             int indexToRemove = -1;
-            
+
             for (int i = 0; i < Accounts.Length; i++)
             {
                 if (Accounts[i] == account)
@@ -80,7 +80,7 @@ namespace ByteBank.Help
 
         public void ResizeArray()
         {
-            CheckingAccount[] newArray = new CheckingAccount[_currentIndex+1];
+            CheckingAccount[] newArray = new CheckingAccount[_currentIndex + 1];
 
             for (int i = 0; i < Accounts.Length; i++)
             {

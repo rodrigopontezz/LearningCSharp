@@ -1,4 +1,4 @@
-﻿namespace ByteBank.Help
+﻿namespace ByteBank.CollectionSamples
 {
     public class ArrayInstanciation
     {

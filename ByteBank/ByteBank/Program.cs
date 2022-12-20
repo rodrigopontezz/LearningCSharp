@@ -1,4 +1,5 @@
 ﻿using ByteBank.AccountTypes;
+using ByteBank.CollectionSamples;
 using ByteBank.Help;
 using ByteBank.Screens;
 
@@ -34,7 +35,15 @@ namespace ByteBank
             //// Indexer
             //Console.WriteLine($"This is accessed through an indexer: {accountManager[0].AccountNumber}");
             #endregion
+            #region Class Generics example
+            //string nancy = "Nancy Wheeler";
+            //GenericsPrinter<string>.PrintValue(nancy);
 
+            //int age = 29;
+            //GenericsPrinter<int>.PrintValue(age);
+
+            //GenericsPrinter<CheckingAccount>.PrintValue(account);
+            #endregion
 
         }
     }

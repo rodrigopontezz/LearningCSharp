@@ -1,6 +1,6 @@
 ﻿using System.Collections;
 
-namespace ByteBank.Help
+namespace ByteBank.CollectionSamples
 {
     public class ArrayListSample
     {
